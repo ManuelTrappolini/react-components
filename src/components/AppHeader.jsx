@@ -1,5 +1,5 @@
 export default function AppHeader() {
-    const title = 'Il mio Blog'
+    const title = `The Batman's Blog`
     return (
         <header>
             <h1>{title}</h1>
